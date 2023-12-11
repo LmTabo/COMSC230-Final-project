@@ -17,6 +17,4 @@ The goal of this project is to apply various data analysis techniques to the Iri
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Installation
-To get started with this project, clone the repository and install the required dependencies:
-git clone https://github.com/LmTabo/COMSC230-Final-project.git cd COMSC230-Final-project pip install -r requirements.txt
+
